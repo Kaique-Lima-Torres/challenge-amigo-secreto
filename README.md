@@ -9,8 +9,8 @@ facilidade: o jogo é totalmente simples e objetivo sendo assim todo mundo pode 
 
                                 TUTORIAL DE COMO JOGAR
 
-acesse o site:
-aidicione os nome dos participante: adicione os nomes de todos os participante (não tem limite maximo)
+acesse o site: https://challenge-amigo-secreto-rib3.vercel.app/
+adicione os nome dos participante: adicione os nomes de todos os participante (não tem limite maximo)
 sorteio dos nomes: o sistema vai sorteia os nomes automaticamente
 resultado: vai gerar um nome de quem foi sorteado.
 
